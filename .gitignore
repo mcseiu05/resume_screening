@@ -1,0 +1,12 @@
+# Ignore virtual environments
+.venv/
+venv/
+
+# Ignore PyCharm project settings
+.idea/
+
+# Optional: ignore other temporary files
+__pycache__/
+*.pyc
+.DS_Store
+
